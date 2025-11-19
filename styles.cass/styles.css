@@ -2,3 +2,6 @@ body{
 color: blueviolet;
 background: rgb(222, 184, 135);
 }
+header{
+    border-bottom:  solid 2px rgb(rgb(241, 71, 247),);
+}
